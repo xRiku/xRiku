@@ -7,6 +7,5 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on Vert TI
 - 🌱 I’m currently learning ReactJS/typescript 
 - 🙏 I'm one semester away from graduating in Computer Science at UFES
