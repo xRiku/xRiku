@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱 I’m currently working for VisiaLabs as a Backend Developer
+- 🌱 I’m currently working for VisiaLabs as a Full-stack Developer
 - 🙏 I'm one semester away from graduating in Computer Science at UFES
 - 🚀 I'm studying NodeJS/Java and ReactJS
