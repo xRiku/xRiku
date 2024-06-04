@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently working for MedPrev as a Full-stack Developer
 - 🙏 I have a Bachelor's degree in Computer Science from Universidade Federal do Espirito Santo
-- 🚀 I'm studying NestJS and Vue.Js
+- 🚀 I'm working mainly with React (Next.js)
 
   My github will get less updated since i'm working using azure now
