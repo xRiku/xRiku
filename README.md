@@ -7,4 +7,4 @@
 - 🔥 I'm hyped with code again
 - 🎉 Been having so much fun with pickleball 😄
 
- I'll be trying my hardest to improve my knowledge in algorithms with Leetcode in the following months. I'm also experimenting GraphQL.
+ I'll be trying my hardest to improve my knowledge as a software engineer and keep getting higher
